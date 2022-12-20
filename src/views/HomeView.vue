@@ -8,7 +8,9 @@
 <script>
 // @ is an alias to /src
 import HelloWorld from '@/components/HelloWorld.vue'
+// import axios from '../axios'
 
+// axios.get('posts')
 export default {
   name: 'HomeView',
   components: {
@@ -16,3 +18,6 @@ export default {
   }
 }
 </script>
+
+
+<style></style>
